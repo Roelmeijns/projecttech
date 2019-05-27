@@ -17,7 +17,7 @@ Cloning the project git clone https://github.com/Roelmeijns/projecttech.git
 
 installing node modules npm install
 
-##This App is build using
+## This App is build using
 * Javascript
 * HTML
 * CSS
