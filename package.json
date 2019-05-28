@@ -1,12 +1,12 @@
 {
-  "name": "weather",
+  "name": "RunTogether",
   "version": "1.0.0",
-  "description": "A weather application ",
+  "description": "RunTogether ",
   "main": "index.js",
   "scripts": {
     "start": "nodemon index.js"
   },
-  "author": "Sander Oostenbrink",
+  "author": "Roel Meijns",
   "license": "ISC",
   "dependencies": {
     "address": "^1.1.0",
